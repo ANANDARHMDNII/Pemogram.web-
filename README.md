@@ -319,6 +319,8 @@ Dengan Memasukan Halaman Contct
 # Membuat Data Tables Belajar
 berikan Skrip untuk Data Tables Belajar yang mengacu pada:
 https://datatables.net/examples/basic_init/zero_configuration.html
+![image](https://github.com/user-attachments/assets/2dacb5f3-5db1-46e5-9be9-d7fad7282b3a)
+
 ![datatables](https://github.com/user-attachments/assets/ea518673-6672-4bb5-8545-03465cf885ab)
 
 # Membuat Form Belajar
