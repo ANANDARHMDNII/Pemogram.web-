@@ -61,8 +61,8 @@ http://localhost/website-dinamis/?page=home
                 <div class="row">
                     <div class="col-md-4">
                         <h5>Kontak Kami</h5>
-                        <p>Email: lutpiahainus@gmail.com</p>
-                        <p>Telepon: (+62) 823-3345-6789</p>
+                        <p>Email: anandarahmadani859@gmail.com</p>
+                        <p>Telepon: (+62) 812-3980-1571</p>
                     </div>
                     <div class="col-md-4">
                         <h5>Ikuti Kami</h5>
