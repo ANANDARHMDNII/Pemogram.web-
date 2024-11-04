@@ -1,5 +1,6 @@
 # PROFIL
-## UTS Pemrograman Web ![alt text](PHP-Logo-Free-Download-PNG.png)
+## UTS ![PHP-Logo-Free-Download-PNG](https://github.com/user-attachments/assets/873fceee-6f6b-4685-97dc-3d4410698235)
+
 | Variable           |       isi           |
 | -------------------|---------------------|
 | **Nama**           | Ananda Rahmadani    |
@@ -10,7 +11,9 @@
 ### Membuat Website-Dinamis
 ### langkah-langkah
 ### 1. Membuat file website-dinamis
-
+![Gambar 1](https://github.com/user-attachments/assets/fad0facc-13d7-4e4a-b509-2d0d946b6ddb)
+![gambar 2](https://github.com/user-attachments/assets/38aa180e-22c6-4074-b035-be6dc6025d94)
+![gambar 3](https://github.com/user-attachments/assets/3aa0f920-4717-4d83-b7c2-73e2dcff4e22)
 
 ### 2. Menjalankan  MySQL server
 ![alt text](mysql.png)
@@ -144,12 +147,12 @@ http://localhost/website-dinamis/?page=home
 
 # outputnya ketika berhasil:
 
-![alt text](navbar.png)
+![navbar](https://github.com/user-attachments/assets/5899ae39-bbe0-425a-aea4-bc6a4eb1e786)
 
 # 3. Menambahkan Home
 dengan memasukan halaman Home
 
-![alt text](image/image.png)
+![navbar](https://github.com/user-attachments/assets/57f91397-6dda-48d4-a5e8-392d52520ebe)
 
 <h1>Halaman Home</h1>
 <div class="container">
@@ -187,7 +190,7 @@ dengan memasukan halaman Home
 dengan memasukan image dan carousel dari :
 http://localhost/website-dinamis/?page=about
 
-gamabar img
+![Halaman About](https://github.com/user-attachments/assets/c6bb1b95-1b6e-4353-af12-8e140e175e96)
 
 <h1>Halaman about</h1>
 <!DOCTYPE html>
@@ -259,12 +262,64 @@ gamabar img
 
 </html>
 
+# 5. Menambahkan contact
+Dengan Memasukan Halaman Contct
+![halaman contact](https://github.com/user-attachments/assets/40b336a0-6da4-4b59-90d2-f92827270254)
+
+<h1>Halaman Contact</h1>
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/css/bootstrap.min.css">
+</head>
+
+<body>
+
+    <div class="container mt-5">
+        <h1 class="text-center">Halaman Contact</h1>
+        <div class="row justify-content-center mt-4">
+            <div class="col-md-6">
+                <div class="card p-4">
+                    <h3 class="text-center">Hubungi Kami</h3>
+                    <div class="contact-info mt-3">
+                        <p><strong>Email:</strong> <a href="mailto:anandarahmadani859@gmail.com">anandarahmadani859@gmail.com</a></p>
+                        <p><strong>Telepon:</strong> <a href="tel:+6281293801571">+62 812-9380-1571</a></p>
+                        <hr>
+                        <p class="text-center"><strong>Ikuti Kami di Media Sosial:</strong></p>
+                        <div class="d-flex justify-content-around">
+                            <a href="https://www.instagram.com/nndarhmdnii?igsh=MWdhb3kwZm53N2dmMQ====" target="_blank"
+                                class="text-decoration-none text-dark">
+                                <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram"
+                                    style="width: 24px;"> Instagram
+                            </a>
+                            <a href="https://threads.net/Iqbal |" target="_blank"
+                                class="text-decoration-none text-dark">
+                                <img src="https://img.icons8.com/ios-filled/50/000000/comments.png" alt="Threads"
+                                    style="width: 24px;"> Threads
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
+
 # Membuat Data Tables Belajar
 berikan Skrip untuk Data Tables Belajar yang mengacu pada:
 https://datatables.net/examples/basic_init/zero_configuration.html
+![datatables](https://github.com/user-attachments/assets/ea518673-6672-4bb5-8545-03465cf885ab)
 
 # Membuat Form Belajar
 menambahkan form dari:
 https://getbootstrap.com/docs/5.3/forms/overview/#overview
+![form](https://github.com/user-attachments/assets/fcedb986-76ce-483d-aa33-1d351903b573)
 
 ## KAMSIA
