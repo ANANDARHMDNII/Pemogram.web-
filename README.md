@@ -190,6 +190,7 @@ dengan memasukan halaman Home
 
 # 4. Menambahkan about
 dengan memasukan image dan carousel dari :
+
 http://localhost/website-dinamis/?page=about
 
 ![Halaman About](https://github.com/user-attachments/assets/c6bb1b95-1b6e-4353-af12-8e140e175e96)
@@ -266,6 +267,7 @@ http://localhost/website-dinamis/?page=about
 
 # 5. Menambahkan contact
 Dengan Memasukan Halaman Contct
+
 ![halaman contact](https://github.com/user-attachments/assets/40b336a0-6da4-4b59-90d2-f92827270254)
 
 <h1>Halaman Contact</h1>
